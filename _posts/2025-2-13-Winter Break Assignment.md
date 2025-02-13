@@ -1,25 +1,38 @@
 ---
 layout: post
 title: Winter Break Assignment
-date: 2025-02-13 13:25:59
-last_modified_at: 2025-02-13 13:26:26
+date: 2025-02-13 13:25:57 +0800
+last_modified_at: 2025-02-13 13:25:59 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-Welcome to **我的总结与展望**! 下面我将对以下内容展开回忆.
+Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
+>- 个人信息
+>- 学习情况
+>- 职业规划
+>**上述信息在word文档中体现**
+- 生活愿景
+--------
+- 浅浅学习一项新技能
+- 农村招标项目披露
+
 {: .message }
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
+## 生活愿景
+  1.希望工作地点在家乡（其实感觉在哪里都可以，但是退休后应该是在家乡），如果有国外工作的可能，希望时间不宜过长，最多十年。
+  2.我希望工作稳定，属于稀缺性人才那种哈哈哈 : smile : ,对未来生活我没过多考虑，也没过多奢求，只是希望不要太简单，也不要困难得我难以喘气；人应当在考验与抉择中度过此生。
+  3.至于我想要成为什么样的人，我认为这是水到渠成的结果，我也难以用几个标签贴在我身上，我自认为我难以保持，我不愿意背着几个空壳在世上行走；总之，当我在往后几年、几十年回忆一些事的时候，发现我绝大多数在对的时空下做了对的事，那我就十分满足了。
+  4.我没有**最**崇拜的人，以我的评判标准得出值得我崇拜的人中，许多都是平行的。人的思维就是很奇妙，很难将这种非数指标量化为严谨的数值排列，所以我的脑子告诉我：我没法排出**最**崇拜的人。没法排出绝对的第一，但某些人当我想到他的神态作风的时候，他却能无限接近于这一位置。理查德。费曼教授就是这样一个例子。
+  在我的微信朋友圈主页上一直放着这张照片：
+  ![alt text](f7aa1908fe233a44ad90dc48bf2b316.jpg)
+  至于为什么，如果我说我只从几个短视频或长视频、他的照片或他的访谈中就能将他排为伪1，你可能不信。**但确实是这样的**。最核心的是我认为他含有**真**这个属性。他的思考方式和一些想法是十分令人羡慕的，我估计很难达到他这种状态。下面有视频<https://www.bilibili.com/video/BV1wo4y197nX/?spm_id_from=333.337.search-card.all.click&vd_source=31b093f01b01f65c886b2a4b2ea15e38>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+你知道，存在人类几百万年，有记录的、没有记录的；被推崇的、被贬低的；声名显赫的、默默无闻的；在世上活着的和死了的人太多了！改变世界的，一个是科学、一个是政治、一个是天地，而思考是这些的全部。
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+------
+## 新技能——搭建网页
+如你所见，现在你正在浏览一个网页。
+这花费了我3天编写完成的网页，
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
