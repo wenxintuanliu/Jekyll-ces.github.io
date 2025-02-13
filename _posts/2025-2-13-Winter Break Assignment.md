@@ -32,17 +32,15 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 ------
 ## 新技能——搭建网页
 如你所见，现在你正在浏览一个网页。
-这花费了我3天编写完成的网页，
+`这花费了我3天编写完成的网页`，
 
-- **To bold text**, use `<strong>`.
+<!-- - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
 - <mark>To highlight</mark>, use `<mark>`.
 - Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 - Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
 - <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
+- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`. -->
 
 ## Footnotes
 
