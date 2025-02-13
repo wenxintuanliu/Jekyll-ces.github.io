@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: 2023012685@nwafu.edu.cn
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: QQ
+  url: 3403208087@qq.com
+  icon: fab fa-qq
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/wenxintuanliu/Jekyll-ces.github.io
   icon: fab fa-github
