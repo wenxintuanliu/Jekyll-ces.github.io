@@ -2,7 +2,7 @@
 title: A personal web
 description: 知之为知之，不知为不知
 url: https://github.com/wenxintuanliu/Jekyll-ces.github.io
-baseurl: ""
+baseurl: "/Jekyll-ces.github.io"
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
