@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Winter Break Assignment
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+date: 2025-02-13 13:25:59
+last_modified_at: 2025-02-13 13:26:26
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-Welcome to **我的总结与展望 **! 下面我将对以下内容展开回忆.
+Welcome to **我的总结与展望**! 下面我将对以下内容展开回忆.
 {: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
