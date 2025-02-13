@@ -25,7 +25,7 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
   3.至于我想要成为什么样的人，我认为这是水到渠成的结果，我也难以用几个标签贴在我身上，我自认为我难以保持，我不愿意背着几个空壳在世上行走；总之，当我在往后几年、几十年回忆一些事的时候，发现我绝大多数在对的时空下做了对的事，那我就十分满足了。
   4.我没有**最**崇拜的人，以我的评判标准得出值得我崇拜的人中，许多都是平行的。人的思维就是很奇妙，很难将这种非数指标量化为严谨的数值排列，所以我的脑子告诉我：我没法排出**最**崇拜的人。没法排出绝对的第一，但某些人当我想到他的神态作风的时候，他却能无限接近于这一位置。理查德。费曼教授就是这样一个例子。
   在我的微信朋友圈主页上一直放着这张照片：
-  ![alt text]({{ site.baseurl }}/assets/f7aa1908fe233a44ad90dc48bf2b316.jpg)
+  ![alt text]({{ site.baseurl }}/pictures/f7aa1908fe233a44ad90dc48bf2b316.jpg)
   至于为什么，如果我说我只从几个短视频或长视频、他的照片或他的访谈中就能将他排为伪1，你可能不信。**但确实是这样的**。最核心的是我认为他含有**真**这个属性。他的思考方式和一些想法是十分令人羡慕的，我估计很难达到他这种状态。下面有视频<https://www.bilibili.com/video/BV1wo4y197nX/?spm_id_from=333.337.search-card.all.click&vd_source=31b093f01b01f65c886b2a4b2ea15e38>
 
 你知道，存在人类几百万年，有记录的、没有记录的；被推崇的、被贬低的；声名显赫的、默默无闻的；在世上活着的和死了的人太多了！改变世界的，一个是科学、一个是政治、一个是天地，而思考是这些的全部。
@@ -44,10 +44,10 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 ### 成果展示
 1.纯html的不良导体导热系数计算网页：
  <https://wenxintuanliu.github.io/Calculation-of-the-thermal-conductivity-of-poor-conductors.github.io/>
- ![alt text](image.png)
+ ![alt text]({{ site.baseurl }}/pictures/image.png)
  2.带少量css和js的简陋主页面：
  <https://wenxintuanliu.github.io/stru-web.github.io/>
- ![alt text](image-1.png)
+ ![alt text]({{ site.baseurl }}/pictures/image-1.png)
 
 
 ----
