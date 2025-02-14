@@ -12,12 +12,13 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 >- 个人信息
 >- 学习情况
 >- 职业规划
->**上述信息在word文档中体现**
+
+>**上述信息在word文档中体现**  
 >- **生活愿景**
   
 ---------
 - 新技能
-- 农村招标项目披露
+- 了解AI
 
 ## 生活愿景
   1.希望工作地点在家乡（其实感觉在哪里都可以，但是退休后应该是在家乡），如果有国外工作的可能，希望时间不宜过长，最多十年。  
@@ -37,12 +38,14 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 ### 学习记录
 1.产生搭建网页的想法  
 于是乎按下面图上的步骤进行：
-<![alt text]({{ site.baseurl }}/pictures/1.png)
+![alt text]({{ site.baseurl }}/pictures/1.png)
 了解到要服务器要**买**！！！好，遂放弃  
 2.在进行上述步骤的时候无意了解到github中的GitHub Pages功能  
 >GitHub Pages 是 GitHub 提供的一个免费的静态网站托管服务，它允许 GitHub 用户创建和托管自己的静态网站，这些网站可以通过特定的 GitHub 仓库进行管理和托管。 
+
 好，开始：
-- github注册
+- github注册  
+
 为了能较流畅访问github.com（大好青年应防止沉迷**科学上网**😋）,修改hosts文件，添加相关IP地址
 >修改的内容：<https://gitee.com/jyotish/githubhosts/>
 之后能打开github.com，便注册成功了  
@@ -66,6 +69,7 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
  其实在之前构建github网页时，我在浏览网页的时候就了解到Github-Pages就默认使用**Jekll**模版，然后我在网址<https://jekyllthemes.io/free>找到本网页使用的模板并下载。此模板包含的文件如果你替换到你仓库的index.html，你就能得到此模版得到的网页！！！  
  好了，别人的永远是别人的，感谢其开源为我带来了便利，但是网页我肯定需要改为我的内容或者改为我想要的形式。那么，就需要知道这些文件的作用的是什么。某些文件名字可以删改，这就意味着两个不同的**Jekll**模板可能文件夹名字不完全相同，这就没有统一的学习标准，即当我看到某个文件夹我不知道他里面的内容是用来干什么的：是用来定义首页样式还是总体布局、还是子页面样式。这当然比较麻烦，必须要了解了每个文件的作用。
  >到此步我还只能适应模板的不同  
+
  2.对问题2
  Git！！！！！OK  
  [Git的安装](https://blog.csdn.net/mukes/article/details/115693833)  
@@ -89,10 +93,10 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
  ![alt text]({{ site.baseurl }}/pictures/image.png)  
  2.[带少量css和js的简陋主页面](https://wenxintuanliu.github.io/stru-web.github.io/):
  ![alt text]({{ site.baseurl }}/pictures/image-1.png)  
-3.你所见的
+3.你现在所见的
 
 ----
-## 项目披露
+## 了解AI
 
 <!-- - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
