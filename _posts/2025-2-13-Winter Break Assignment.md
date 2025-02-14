@@ -3,7 +3,7 @@ layout: post
 title: Winter Break Assignment
 date: 2025-02-13 13:25:57 +0800
 last_modified_at: 2025-02-13 13:25:59 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [Assignment, Conclusion]
 toc:  true
 ---
 Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
@@ -34,6 +34,24 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 ## 新技能——搭建网页
 如你所见，现在你正在浏览一个网页。  
 编写完成的网页花费了我3天，老师您要求`写一篇不少于3000字的学习记录及心得体会`,我估计写不了这么多，我真写这么多估计许多都是废话	😂；  
+### 学习记录
+1.<p align="center">
+  <img src="image.png" alt="alt text" width="500px">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 下面我来讲讲搭建我这样简单的网页的流程吧：  
 1.创建`.github.io仓库`并进行相关设置；  
 这就能拥有一个关联到属于自己的仓库的网址而不必购买云服务器  

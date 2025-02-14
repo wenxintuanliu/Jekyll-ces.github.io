@@ -126,3 +126,29 @@
   border: 1px solid var(--border-color);
   border-radius: .5em;
 }
+
+// 文章内容样式
+.post {
+  // 增大字与字的间距
+  letter-spacing: 0.05em; /* 根据需要调整间距大小 */
+
+  // 设置插入的图片比例较小
+  img {
+    max-width: 50%; /* 图片宽度为容器宽度的50%，可根据需要调整 */
+    height: auto; /* 保持图片比例 */
+    margin: 1rem auto; /* 上下外边距为1rem，左右居中 */
+    display: block; /* 块级显示，确保图片独占一行 */
+  }
+
+  // 其他内容样式（可选）
+  p {
+    margin-bottom: 1rem; /* 段落间距 */
+  }
+
+  blockquote {
+    border-left: 4px solid var(--gray-300);
+    padding: 0.5rem 1rem;
+    font-style: italic;
+    margin: 1rem 0;
+  }
+}
