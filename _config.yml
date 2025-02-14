@@ -58,3 +58,7 @@ author:
   name: Chunfeng fusu
   url: https://github.com/wenxintuanliu/Jekyll-ces.github.io
   email: 2023012685@nwafu.edu.cn
+
+rouge:
+  line_numbers: true
+  wrap: true

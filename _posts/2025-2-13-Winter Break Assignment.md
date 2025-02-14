@@ -50,7 +50,7 @@ GitHub Pages 是 GitHub 提供的一个免费的静态网站托管服务，它�
 
 为了能较流畅访问github.com（大好青年应防止沉迷**科学上网**😋）,修改hosts文件，添加相关IP地址
 {% highlight text %}
->添加的内容：<https://gitee.com/jyotish/githubhosts/>
+添加的内容：<https://gitee.com/jyotish/githubhosts/>
 {% endhighlight %}
 之后能打开github.com，便注册成功了  
 3.添加仓库
