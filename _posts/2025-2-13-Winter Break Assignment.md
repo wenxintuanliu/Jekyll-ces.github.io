@@ -14,11 +14,10 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 >- 职业规划
 
 >**上述信息在word文档中体现**  
->- **生活愿景**
-  
 ---------
-- 新技能
-- 了解AI
+>- 生活愿景 
+>- 新技能
+>- 了解AI
 
 ## 生活愿景
   1.希望工作地点在家乡（其实感觉在哪里都可以，但是退休后应该是在家乡），如果有国外工作的可能，希望时间不宜过长，最多十年。  
@@ -41,7 +40,10 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 ![alt text]({{ site.baseurl }}/pictures/1.png)
 了解到要服务器要**买**！！！好，遂放弃  
 2.在进行上述步骤的时候无意了解到github中的GitHub Pages功能  
->GitHub Pages 是 GitHub 提供的一个免费的静态网站托管服务，它允许 GitHub 用户创建和托管自己的静态网站，这些网站可以通过特定的 GitHub 仓库进行管理和托管。 
+
+{% highlight js %}
+GitHub Pages 是 GitHub 提供的一个免费的静态网站托管服务，它允许 GitHub 用户创建和托管自己的静态网站，这些网站可以通过特定的 GitHub 仓库进行管理和托管。 
+{% endhighlight %}
 
 好，开始：
 - github注册  
@@ -53,7 +55,9 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
  ![alt text]({{ site.baseurl }}/pictures/2.png)
 添加成功后还不能得到自己的网址，需要至少在根目录下添加一个**index.html**,因为其默认读取index.html。等2分钟左右在**setting>Pages**发现已经有自己的网址了。
  ![alt text]({{ site.baseurl }}/pictures/3.png)  
- >还需要设置Build and deployment等  
+ {% highlight js %}
+ 还需要设置Build and deployment等 
+ {% highlight js %} 
  这个时候打开网页就能看到index.html内容了  
  
  上述过程我基本没有遇到困难，我想主要由于我之前找到了一份指南：<https://zhuanlan.zhihu.com/p/91652100>
