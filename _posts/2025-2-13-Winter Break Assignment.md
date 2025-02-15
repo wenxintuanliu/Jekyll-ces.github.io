@@ -17,7 +17,7 @@ Welcome to **我的必做与选做**! 下面我将对以下内容展开回忆.
 ---------
 >- 生活愿景 
 >- 新技能
->- 了解AI
+<!-- >- 了解AI -->
 
 ## 生活愿景
   1.希望工作地点在家乡（其实感觉在哪里都可以，但是退休后应该是在家乡），如果有国外工作的可能，希望时间不宜过长，最多十年。  
@@ -103,7 +103,7 @@ GitHub Pages 是 GitHub 提供的一个免费的静态网站托管服务，它�
 3.你现在所见的
 
 ----
-## 了解AI
+<!-- ## 了解AI -->
 
 <!-- - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
@@ -113,31 +113,8 @@ GitHub Pages 是 GitHub 提供的一个免费的静态网站托管服务，它�
 - <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
 - Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`. -->
 
-## Footnotes
 
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
-
-{% highlight text %}
-Clicking this number[^fn-sample_footnote]
-{% endhighlight %}
-
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
-
-{% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-{% endhighlight %}
-
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
-## Heading
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Code
-
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
-
-{% highlight js %}
+<!-- {% highlight js %}
 // Example can be run directly in your JavaScript console
 
 // Create a function that takes two arguments and returns the sum of those arguments
@@ -146,40 +123,9 @@ var adder = new Function("a", "b", "return a + b");
 // Call the function
 adder(2, 6);
 // > 8
-{% endhighlight %}
+{% endhighlight %} -->
 
-You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
-
-{% highlight js linenos %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
+<!-- <dl>
   <dt>HyperText Markup Language (HTML)</dt>
   <dd>The language used to describe and define the content of a Web page</dd>
 
@@ -188,27 +134,10 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
 
   <dt>JavaScript (JS)</dt>
   <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
+</dl> -->
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-
-Align to the center by adding `class="align-center"`:
-
-![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Name</th>
@@ -240,9 +169,7 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
       <td>9</td>
     </tr>
   </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+</table> -->
 
 -----
 
